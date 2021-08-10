@@ -58,7 +58,7 @@ cat >> output.txt
 # hi this is a single line comment
 # these won't appear in the output
 ```
-- Multiline comment
+- Multiline comment are used to display comments that consume more than one line.
 ```
 #! /usr/bin/bash/
 
@@ -66,5 +66,19 @@ cat >> output.txt
 These are multiline comments
 these comments will not appear in the output
 make sure you hit a space after colon. '
+```
+
+- To show the comment message in the output we use a delimeter.
+
+```
+#! /usr/bin/bash/
+
+cat << variable
+Hello, all of these text 
+will appear in the output.
+to stop, we have to write variable again.
+you can give any name instead of vaiable
+variable
+
 ```
  
