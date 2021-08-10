@@ -7,7 +7,7 @@
 - vi helloscript.sh
 
 ```
-- hello vineet!
+hello vineet!
 ```
 - save and quit (:wq)
 - chmod -x helloscript.sh
