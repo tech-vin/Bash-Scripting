@@ -1,2 +1,16 @@
 # Bash-Scripting
-Bash scripting allows us to interact and manipulate system. It can be combined with python to writing powerful scripts. 
+
+## Introduction
+
+- cd Desktop
+- touch helloscript.sh
+- vi helloscript.sh
+
+```
+- hello vineet!
+```
+- save and quit (:wq)
+- chmod -x helloscript.sh
+- ./helloscript.sh
+
+ 
