@@ -47,4 +47,24 @@ cat > output.txt
 cat >> output.txt
 
 ```
+
+## Adding Comments
+
+- comment is the instructions added for the programmer's understanding
+- single line command can be applyed using ```#``` as the prefix
+```
+#! /usr/bin/bash/
+
+# hi this is a single line comment
+# these won't appear in the output
+```
+- Multiline comment
+```
+#! /usr/bin/bash/
+
+: '
+These are multiline comments
+these comments will not appear in the output
+make sure you hit a space after colon. '
+```
  
