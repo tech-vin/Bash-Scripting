@@ -81,4 +81,36 @@ you can give any name instead of vaiable
 variable
 
 ```
+## Conditional Statements
+
+- ne - not equal to
+- eq - equal to
+- gt - greater than
+- <  - smaller than
+- >  - greater than
+- if
+- then
+- elif
+- else
+
+```
+#! /usr/bin/bash
+
+count=10
+
+if [ $count -ne 10 ]
+then
+	echo "not equal to 10"
+
+```
+
+- with else condition
+
+```
+#! /usr/bin/bash
+
+count=10
+
+
+```
  
