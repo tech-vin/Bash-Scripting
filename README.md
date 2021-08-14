@@ -83,15 +83,15 @@ variable
 ```
 ## Conditional Statements
 
-- ne - not equal to
-- eq - equal to
-- gt - greater than
-- <  - smaller than
-- >  - greater than
-- if
-- then
-- elif
-- else
+- `ne` - not equal to
+- `eq`- equal to
+- `gt` - greater than
+- `<`  - smaller than
+- `>`  - greater than
+- `if`
+- `then`
+- `elif`
+- `else`
 
 ```
 #! /usr/bin/bash
